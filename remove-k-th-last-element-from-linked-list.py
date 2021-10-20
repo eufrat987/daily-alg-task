@@ -1,3 +1,11 @@
+# Hi, here's your problem today. This problem was recently asked by AirBNB:
+
+# You are given a singly linked list and an integer k. Return the linked list, removing the k-th last element from the list.
+
+# Try to do it in a single pass and using constant space.
+
+# Here's a starting point:
+
 class Node:
   def __init__(self, val, next=None):
     self.val = val
