@@ -31,8 +31,6 @@ def helper(nodeList):
   for node in nodeList:
     childrenList += node.children
   return helper(childrenList)
-    
-  
 
 def is_symmetric(root):
   return helper([root])
