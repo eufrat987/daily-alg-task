@@ -1,1 +1,1 @@
-# daily-alg-task
+# https://www.techseries.dev/daily
